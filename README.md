@@ -5,7 +5,7 @@
     - OpenGL with C++
     - C++17/20 concepts
     - and more! 
-- My repositories mainly consist of the aforementioned learning projects. Most are imcomplete but have a solid foundation.
+- My repositories mainly consist of the aforementioned learning projects with solid foundations.
 - 📫 If you'd like to contact me, I encourage you to message me on LinkedIn (https://www.linkedin.com/in/thomas-tran-2021/) or email me at thuantran07@hotmail.com
 
 <!---
