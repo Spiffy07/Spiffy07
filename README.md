@@ -1,9 +1,10 @@
 - Hello! My name is Thomas.
-- My interests lie in everything technology, but especially game design!
+- My interests lie in everything technology, but especially Video Game Development!
 - I'm currently learning many different fields of design and development best practices.
     - Unreal Engine 5.2 (C++ and Blueprints)
     - OpenGL with C++
     - C++17/20 concepts
+    - Dear ImGui
     - and more! 
 - My repositories mainly consist of the aforementioned learning projects with solid foundations.
 - 📫 If you'd like to contact me, I encourage you to message me on LinkedIn (https://www.linkedin.com/in/thomas-tran-2021/) or email me at thuantran07@hotmail.com
