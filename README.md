@@ -7,7 +7,7 @@
     - NodeJS 
     - and more! 
 - My repositories mainly consist of the aforementioned learning projects with solid foundations.
-- 📫 If you'd like to contact me, I encourage you to message me on LinkedIn (www.linkedin.com/in/thomas-tran-spiffy07) or email me at thomas.tran0789@gmail.com
+- 📫 If you'd like to contact me, I encourage you to email me at thomas.tran0789@gmail.com
 
 <!---
 Spiffy07/Spiffy07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
